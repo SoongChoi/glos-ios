@@ -9,4 +9,4 @@ glos-ios
 
 
 # MASCOT
-![Alt text](http://nimg.nate.com/orgImg/mi/2011/03/09/20110309223330_4d7781aa5e8e0_1.jpg "Ha Jee-won")
+![Alt text](http://nimg.nate.com/orgImg/hm/2011/01/13/20110113000408_1.jpg "Ha Jee-won")
